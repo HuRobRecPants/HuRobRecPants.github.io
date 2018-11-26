@@ -1,0 +1,80 @@
+print("Welcome to Larry's Day! The goal of this game is to make Larry crap himself")
+print("Also, if you find any bugs, or anything that has not been finishied please contact me at robert@thurmans.com and we will soon after have a new release out.")
+print("Last bug/text update: v0.24, 11/26/2018.")
+
+print("You roll out of bed.")
+
+is_eating_possubly = input("Do you go eat breafest or yell at Finian for no reason? (yell/eat) ")
+
+if is_eating_possubly == "eat":
+    print("Julu did not make famous blueberru pancakes.")
+    is_healthy_mad = input("Do you eat the healthy omelet or drive to iHop? (iHop/health) ")
+
+    if is_healthy_mad == "health":
+        print("Then as soon as your done, Ben comes over and brought doughuts.")
+        is_force_doughnut = input("Do you force yourself to eat doughtnuts even though you ate the omelet already or do you get mad and watch fox news? (fox/doughnut) ")    
+
+        if is_force_doughnut == "doughnut":
+            is_eating_doughnut = input("You eat 6 doughnuts. Do you wash it down with chocolate milk or start pretending to work? (work/chocolate) ")
+
+        if is_force_doughnut == "fox":
+            print("You can't find the remote")
+            input("Work in progress")
+            
+            if is_eating_doughnut == "chocolate":
+                print("You hear a weird sound in your belly. You crap yourself. You win the game!")
+                input("Press enter to play again!")
+			
+    if is_healthy_mad == "iHop":
+        print("You arive and ask for a table for one. They take you to a table that you are too big for.")
+        is_larry_mad = input("Do you get mad and go to Casaul Male XXL to make you feel better or do you ask for a bigger table? (bigtable/casaul) ")
+
+        if is_larry_mad == "casaul":
+            print("You walk in, and the employee tells you they have a new ultra big size.")
+
+            is_choosing_buy = input("Do you buy it or scream, 'I DO NOT LOOK LIKE A TURTLE!'? (turtle/buy) ")
+
+            if is_choosing_buy == "buy":
+                print("You bought the suit.")
+                is_drive_question = input("Do you drive home and show Julu or go to the pirated moive bar and show the guys? (pirated/julu) ")
+
+                if is_drive_question == "julu":
+                    print("Julu says it looks a little tight.")
+
+                    is_do_you = input("Do you say its modern fashion, or scream 'I DO NOT LOOK LIKE A TURTLE!'? (turle/fashion) ")
+
+                    if is_do_you == "fashion":
+                        is_rest_drive = input("Do you go to a fancy restaurant to wear your new modern fashion suit or do you go to Joe's Fish Sticks to show it off? (fishsticks/fancy) ")
+
+                        if is_rest-drive == "fishsticks":
+                            print("You get to Joe's Fish Sticks. After downing 80 fish sticks, you DON'T crap yourself, and then get blackout drunk, and wake up at home with no poop in your pants.")
+                            input("You lose... but where's the Mazda? Press enter to play again.")
+							
+        if is_force_doughnut == "fox":
+            print("You can't find the remote")
+            input("Work in progress")
+							
+if is_eating_possubly == "yell":
+    print("Finian gets mad.")
+    is_hitting_fin = input("Do you hit him with a vacuum extension or do you get mad and go watch fox news? (fox/evacuum) ")
+
+    if is_hitting_fin == "fox":
+        print("You can't find the remote")
+        input("Work in progress")
+
+    if is_hitting_fin == "evacuum":
+        print("You miss him with the vacuum extension, and Finian sprints to the gym.")
+
+        is_brefest_choose = input("Do you go get breafest or do you go to Joe's Fish Sticks, where you always go when you're mad? (fishsticks/breafest) ")
+
+        if is_brefest_choose == "fishsticks":
+            print("You get to Joe's Fish Sticks. After downing 80 fish sticks, you DON'T crap yourself, and then get blackout drunk, and wake up at home with no poop in your pants.")
+            input("You lose... but where's the Mazda? Press enter to play again.")
+    
+        
+            
+            
+
+                            
+                            
+
